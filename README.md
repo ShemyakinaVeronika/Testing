@@ -1,6 +1,6 @@
 # Testing
 
-[![Build Status](https://github.com/ShemyakinaVeronika/Testing/actions/workflows/testing.yml/badge.svg?branch=main)](https://github.com/ShemyakinaVeronika/Testing/actions/workflows/testing.yml)
+[![Build Status](https://github.com/ShemyakinaVeronika/Testing/actions/workflows/testing.yml/badge.svg?branch=main)](https://github.com/ShemyakinaVeronika/Testing/actions/workflows/testing.yml) <br>
 
 | Название | Описание|Тип теста| Входные данные | Ожидаемый результат|
 |---|---|---|---|---|
